@@ -11,7 +11,7 @@ import oru.inf.InfException;
 
 /**
  *
- * @author ludwi hello world
+ * @author ludwi hello
  */
 public class ElevInfoElever extends javax.swing.JFrame
 {
